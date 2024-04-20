@@ -1,0 +1,80 @@
+.menu {
+  background-color: rgb(248, 202, 222);
+}
+
+.logo {
+  width: 80px;
+  height: auto;
+}
+
+.formulario {
+  background-color: deeppink;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 40px;
+}
+
+.boton {
+  display: flex;
+  justify-content: center;
+}
+.form-control {
+  background-color: rgb(248, 202, 222);
+  margin: 0% auto;
+}
+
+.form-label {
+  margin-left: 50px;
+}
+
+.footerimg {
+  height: 50px;
+  width: auto;
+}
+
+.card-body {
+  background-color: white;
+}
+
+.card-header {
+  background-color: white;
+}
+
+.row {
+  margin-top: 30px;
+}
+
+.icono {
+  justify-content: left;
+  margin-left: 0%;
+}
+
+p {
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+h5 {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.precio {
+  color: darkmagenta;
+}
+
+h6 {
+  color: gray;
+}
+
+.botoncin {
+  display: flex;
+  justify-content: center;
+}
+
+.mb-3 {
+  margin-left: 50px;
+  margin-right: 50px;
+}
